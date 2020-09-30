@@ -1,4 +1,4 @@
-# Algoritmo-genetico-com-java
+# Algoritmo-genetico
 
 ## Problema a ser solucionado:
   - Dado um volume máximo de um caminhão fictício e uma lista de produtos simulando uma loja teremos a tarefa de sabermos quais produtos levarmos de modo que maximemos o lucro total
